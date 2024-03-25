@@ -1,4 +1,5 @@
 # hacking_the-Magic-Leap-one
+![Alt Text](https://i.ebayimg.com/images/g/cloAAOSw-e1gbhS5/s-l1600.png)
 
 ## The motivation:
 I don't like to see cool tech ending in lanfils. Because it isn't great for the enviroment. So I've started this project. To bring the AR glasses back to life. I thought of three ways to extend the life of this product.
