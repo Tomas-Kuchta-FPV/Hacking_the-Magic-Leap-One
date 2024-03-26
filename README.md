@@ -1,24 +1,26 @@
 # Hacking_the-Magic-Leap-One
 ![Alt Text](assets/photos/ML1.png)
 
-## The motivation:
-I don't like to see cool tech ending in landfills. Because it isn't great for the environment. So I've started this project. To bring the AR glasses back to life. I thought of three ways to extend the life of this product.
+## Motivation:
+I believe in the importance of sustainability and dislike seeing innovative technology go to waste in landfills. With that in mind, I've initiated this project to revive the Magic Leap One AR glasses. My goal is to explore avenues to extend the lifespan of this product.
 
-## I never done this
-I'm still learning. So any help would be appreciated. I love learning and this is a huge opportunity for me.
+## Contents
+This repository will include updates, discoveries, code snippets, board X-rays, and more.
+
+## Community Contributions
+As I'm still learning, any assistance or input is greatly appreciated. Collaboration is key to progress, and I'm excited to learn from others in this endeavour.
 
 ## WIKI
-[The wiki](https://github.com/Tomas-Kuchta-FPV/hacking_the-Magic-Leap-one/wiki)
+For detailed information and guides, please refer to [the project's wiki](https://github.com/Tomas-Kuchta-FPV/hacking_the-Magic-Leap-one/wiki).
 
-## Ways of doing it
-I thought of three ways to do this.
-Please contribute if there is an even better way.
+## Approaches
+I've outlined three potential approaches to achieve our goal. Contributions and suggestions for improvement are welcome.
 
- 1. Dumping the MLOS and patching it
- 2. Or reverse engineering the cloud authentification handshake
- 3. Maybe even reverse engineering the board and making a custom bootloader with a custom OS
-    - Going to be probably so hard
+ 1. **Dumping and Patching MLOS:** Exploring methods to extract and modify the Magic Leap Operating System.
+ 2. **Reverse Engineering Cloud Authentication:** Investigating the authentication handshake with cloud services for potential modifications or maybe a custom server.
+ 3. **Custom Bootloader and OS:** Delving into reverse engineering the board to develop a custom bootloader and operating system. Note: This is expected to be challenging.
 
-## Getting the MLone
-There are a lot of E-bay sellers seling the MLone.
-As of now I'm mesaging with a guy that is willing to support the project.
+## Acquiring the Magic Leap One
+The Magic Leap One can be readily found on eBay from various sellers at reasonable prices. I'm currently in contact with a seller who is supportive of our project.
+
+Let's breathe new life into the Magic Leap One!
